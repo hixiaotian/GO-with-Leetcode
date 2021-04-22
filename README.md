@@ -1,2 +1,2 @@
-# GO-with-Leetcode
+# Go-with-Leetcode
 This repository is for developing coding skill with Go language.
