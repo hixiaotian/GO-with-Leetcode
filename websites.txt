@@ -1,0 +1,3 @@
+https://books.studygolang.com/gobyexample/hello-world/
+
+https://docs.hacknode.org/gopl-zh/ch0/ch0-04.html
